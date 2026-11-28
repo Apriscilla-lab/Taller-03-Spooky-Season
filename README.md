@@ -1,4 +1,4 @@
-# Taller 03 - Spooky Season&#x20;
+# Taller 03 - Spooky Season
 
 ## Descripción
 
@@ -12,7 +12,8 @@ Se utilizan conceptos de POO como herencia, polimorfismo, interfaces y coleccion
 
 - Nombre completo: Priscilla Valentina Álvarez Ugarte
 - RUT: 20.988.062-8
-- Carrera: Ingeniería en tecnologías de información&#x20;
+- Carrera: Ingeniería en tecnologías de información
+- GitHub: Apriscilla-lab
 
 ## Estructura del proyecto
 
