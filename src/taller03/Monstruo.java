@@ -1,6 +1,6 @@
 package taller03;
 
-public abstract class Monstruo {
+public abstract class Monstruo {   //clase padre
 
 	private int vida;
 	private int velocidad;
